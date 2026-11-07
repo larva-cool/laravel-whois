@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: shivammathur/setup-php@d37cc3048580de06099c81ded417530716a0d7ab
         with:
-          php-version: '8.0'
+          php-version: '8.2'
       - uses: actions/checkout@v3
 
       - name: Validate composer.json and composer.lock
