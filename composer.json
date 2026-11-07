@@ -1,6 +1,6 @@
 {
   "name": "larva/laravel-whois",
-  "description": "Whois Query Extension for Laravel.",
+  "description": "A Laravel WHOIS query extension with domain parsing, structured results, and raw WHOIS responses.",
   "keywords": [ "laravel", "whois", "larva" ],
   "type": "library",
   "license": "MIT",
