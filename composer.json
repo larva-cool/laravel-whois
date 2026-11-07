@@ -5,7 +5,7 @@
   "type": "library",
   "license": "MIT",
   "require": {
-    "php": "^8.0.2",
+    "php": "^8.2",
     "ext-json": "*",
     "illuminate/console": "^9.0|^10.0|^11.0|^12.0",
     "illuminate/http": "^9.0|^10.0|^11.0|^12.0",

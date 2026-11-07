@@ -27,6 +27,7 @@ phpunit.phar
 # composer itself is not needed
 composer.phar
 composer.lock
+.phpunit.result.cache
 
 # Node.js modules
 node_modules/
